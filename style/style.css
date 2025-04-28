@@ -1,0 +1,86 @@
+body {
+    display:inline;
+}
+.carone {
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-left: 700px;
+    width: 400px;
+    padding: 10px;
+    margin-top: 40px;
+}
+.car {
+    width: 230px;
+    margin-left: 180px;
+    margin-top: -270px;
+    
+}
+.car1 {
+    width: 263px;
+    margin-left: 171px;
+    margin-top: -270px;
+}
+.car2 {
+    width: 263px;
+    margin-left: 151px;
+    margin-top: -300px;
+}
+.h22 {
+    margin-left: 830px;
+    margin-top: 90px;
+}
+.alb {
+    width: 260px;
+    margin-left: 780px;
+    margin-top: 30px;
+}
+.car3 {
+    width: 230px;
+    margin-left: 191px;
+    margin-top: -320px;
+}
+img.animated-gif{
+    width: 100%;
+    height: auto;
+  }
+  .h23 {
+    margin-left: 830px;
+    margin-top: 30px;
+  }
+
+.navbar-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-link li {
+    margin: 0;
+}
+
+.navbar-links a:hover {
+    color: #ff7f50;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    padding: 10px 20px;
+    color: white;
+}
+.site-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
