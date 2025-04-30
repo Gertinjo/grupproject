@@ -1,5 +1,5 @@
 body {
-    display:inline;
+    display:inline block
 }
 .carone {
     border: 1px solid black;
@@ -84,3 +84,64 @@ a {
     height: 40px;
     margin-right: 10px;
 }
+.btn {
+    text-decoration: none;
+    background-color: #007bff;
+}
+.btnn {
+    background-color: #007bff;
+    margin-left: 270px;
+    padding: 10px;
+    border-radius: 7px;
+}
+#slider {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+  }
+
+  #slider img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    display: none;
+  }
+
+  #slider img.active {
+    display: block;
+  }
+
+  .arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 40px;
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 2;
+  }
+
+  .arrow.left {
+    left: 10px;
+  }
+
+  .arrow.right {
+    right: 10px;
+  }
+
+  .center-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 36px;
+    background: #007bff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    z-index: 2;
+  }
