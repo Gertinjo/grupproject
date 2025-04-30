@@ -1,0 +1,123 @@
+#swiss {
+    width: 700px;
+    height: 900px;
+    border: 1px solid #007bff;
+    margin-left: 350px;
+  }
+  #sirius{
+    width: 700px;
+    height: 900px;
+    border: 1px solid #007bff;
+    margin-left: 650px;
+
+  }
+  #opera{
+    width: 700px;
+    height: 900px;
+    border: 1px solid #007bff;
+    margin-left: 950px;
+
+
+  }
+  #swissphoto{
+    width: 700px;
+    height: 380px;
+    margin-top: 10px;
+  }
+  #lokacioniswiss{
+padding-bottom: 600px;
+  }
+
+  #sirusphoto{
+    width: 700px;
+    height: 380px;
+    margin-top: 4px;
+  }
+
+  #Operaphoto{
+    width: 700px;
+    height: 380px;
+    margin-top: -18px;
+  }
+
+
+  #Eurostars{
+    width: 700px;
+    height: 900px;
+    border: 2px solid #007bff;
+    margin-left: 650px;
+    margin-top: 50px;
+
+  }
+
+  #Marriott{
+    width: 700px;
+    height: 900px;
+    border: 2px solid #007bff;
+    margin-left: 350px;
+    margin-top: 50px;
+
+  }
+
+  #Pariss{
+    width: 700px;
+    height: 900px;
+    border: 2px solid #007bff;
+    margin-left: 650px;
+    margin-top: 50px;
+
+  }
+  #barca{
+    width: 700px;
+    height: 900px;
+    border: 2px solid #007bff;
+    margin-left: 950px;
+    margin-top: 50px;
+
+  }
+
+  #london{
+    width: 700px;
+    height: 900px;
+    border: 2px solid #007bff;
+    margin-left: 666666666650px;
+    margin-top: 50px;
+
+  }
+  .navbar-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-link li {
+    margin: 0;
+}
+
+.navbar-links a:hover {
+    color: #ff7f50;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    padding: 10px 20px;
+    color: white;
+}
+.site-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
